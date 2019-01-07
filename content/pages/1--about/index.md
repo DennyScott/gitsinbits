@@ -2,36 +2,10 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+Hey, I'm Denny Scott and I am a Web Developer, where I work primarily in Javascript and React. I grew up in the frozen city of Winnipeg, Manitoba, and work abroad now. My favourite area's include web performance, module bundlers, and building development tools.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+I've been developing websites for 15 years , starting on hacking together small websites and blogger themes when I was a teenager. Some of my earliest memories in web development includes making websites for different guild/groups from my favourite games at the time. I hid my interest from most of my friends, thinking there was no such thing as a career in web development. I assumed there was no way people would pay for this, everyone just did it for fun. ¯\\\_(ツ)_/¯
 
-### Standard features:
+I've developed web apps ranging from typical lean startup prototypes, to enterprise apps responsible for millions of dollars. The most important piece to me is working with fun people, where we all are looking to learn and push each other.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
-
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+Lots of solid tv refs don't hurt either. 

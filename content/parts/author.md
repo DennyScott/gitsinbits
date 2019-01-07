@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
+**Denny Scott** JS Dev. Love hacking around with React and module bundlers, occasionally write about it. For comments, hit up my [Twitter](https://twitter.com/gitinbit):
