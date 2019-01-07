@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 
-import AlgoliaIcon from "!svg-react-loader!../../images/svg-icons/algolia-full.svg?name=AlgoliaIcon";
 
 const styles = theme => ({
   header: {
@@ -46,16 +45,6 @@ const Header = props => {
   return (
     <header className={classes.header}>
       <h1 className={classes.title}>{title}</h1>
-      {algolia && (
-        <a
-          className={classes.mark}
-          href="https://www.algolia.com"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          <AlgoliaIcon />
-        </a>
-      )}
     </header>
   );
 };
